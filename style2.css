@@ -1,0 +1,28 @@
+@font-face {
+  font-family: AkhandSoft;
+  src: url(AkhandSoft-Regular.otf);
+}
+
+@font-face {
+  font-family: gotham-black;
+  src: url(gotham-black.otf);
+}
+
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: AkhandSoft;
+  padding: 1em;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+ul {
+  font-size: 1em;
+}
+
+h1 h2 {
+  font-size: 56px;
+}
